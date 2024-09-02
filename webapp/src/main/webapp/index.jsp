@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>FORM FOR MARRIAGE PROPOSALS FOR KSHITIJA WAGH</h1>
-    <p>only first 100 forms will be considered</p>
+    <h1>LTimindtree</h1>
+    <p>shhdhdhdhdhdh</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
